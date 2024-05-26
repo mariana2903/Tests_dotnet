@@ -43,3 +43,6 @@ O principal objetivo dos Mock Objects é permitir que os desenvolvedores configu
 ### Testes com Moq
 
 Moq é um framework dinâmico para .NET que permite aos desenvolvedores criar Mock Objects de maneira simples e declarativa. É particularmente poderoso por permitir a configuração detalhada do comportamento dos mocks, incluindo a definição de retornos específicos, a verificação de chamadas a métodos e a execução de ações quando métodos são invocados.
+
+### Testes executados com sucesso 
+![image](https://github.com/mariana2903/Tests_dotnet/assets/99264876/7ef79788-6fe6-42d2-9f04-2aa4219d6148)
